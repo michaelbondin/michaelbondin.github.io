@@ -8,52 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Education
+## University of California, Berkeley
+**Doctor of Philosophy in Nuclear Engineering** |
+August 2018 - Present
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Thesis: Development of a Multi-Unit Small Unmanned Aerial System Composed of Structural
+Pulse Shape Discriminating Plastic Scintillators
+* Minors: Particle Physics and Nuclear Fusion
+* Advisor: Prof. Kai Veter
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## University of Michigan
+**Bachelor's of Science in Engineering in Nuclear Engineering and Radiological Sciences** |
+August 2014 - May 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Minor: Computer Science
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Skills
+* **Programming Languages**: Python, C++, MATLAB, MCNP, GEANT4, Mathematica, ASN.1, MAVLink, Linux, LabVIEW
+* **Electronics**: Circuit design and fabrication, component soldering, electronics assembly, RF
+mitigation
+* **Mechanical**: Unmanned aerial system construction, automotive/marine/motorcycle engine
+rebuilding, off-grid solar systems
+* **Languages**: Russian, Hebrew, Spanish
+
+# Research Experience
+Read about my research experience [here](/research).
+
+# Teaching Experience
+Read about my teaching experience [here](/teaching).
+
+# Leadership Experience
+Read about my leadership experience [here](/leadership).
+
