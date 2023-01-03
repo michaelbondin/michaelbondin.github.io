@@ -3,6 +3,8 @@ layout: archive
 title: "Leadership Experience"
 permalink: /leadership/
 author_profile: true
+redirect_from:
+  - /leadership
 ---
 
 {% include base_path %}
