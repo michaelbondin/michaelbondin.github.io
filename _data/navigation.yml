@@ -3,19 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Research"
-    url: /research/
-  
-  - title: "Leadership"
-    url: /leadership/
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-
-  - title: "Talks"
-  url: /talks/    
     
-
+  - title: "CV"
+    url: /cv/
